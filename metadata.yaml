@@ -1,11 +1,16 @@
 _repo: Vandals-of-the-Void_63518
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63518-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, Robert Pierpont
     gutenberg_agent_id: '2213'
     url: http://www.gutenberg.org/2009/agents/2213
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63518#Vandals-of-the-Void
 gutenberg_issued: '2020-10-21'
 gutenberg_type: Text
 identifiers:
